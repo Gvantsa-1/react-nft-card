@@ -1,12 +1,12 @@
 import './App.css';
+import { Card } from './card/Card';
+
 
 function App() {
   return (
     <div className="App">
-      
-
-
-
+    <Card/>
+    
     </div>
   );
 }

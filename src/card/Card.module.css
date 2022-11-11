@@ -1,0 +1,10 @@
+.cardContainer{
+    width: 350px;
+    height: 596px;
+    margin: auto;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: #15263F;
+    color: aqua;
+}
