@@ -1,0 +1,53 @@
+.text_container{
+    padding:24px;
+    text-align: start;
+    font-family: "Outfit", sans-serif;
+}
+
+.h2 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27.72px;
+    color: #ffffff;
+    height: 28px;
+    font-style: bold;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    margin-top: 24px;
+  }
+  
+  .h3 {
+    color: #8bacd9;
+    font-weight: 300;
+    height: 52px;
+    line-height: 26px;
+    font-size: 18px;
+    margin-bottom: 24px;
+  }
+  .text_container_2 {
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    border-bottom: 1px solid  #2e405a;
+    padding-bottom: 24px;
+  }
+  .ethereum {
+    color:  #00fff8;
+    display: flex;
+    align-items: center;
+  }
+  
+  .clock {
+    display: flex;
+    align-items: center;
+    color: #8bacd9;
+  }
+  .img_icon {
+    margin-right: 5px;
+  }
+
+.h2:hover {
+  color: var(--Cyan);
+}
